@@ -1,6 +1,6 @@
 # Soul Steeped
 
-Playable on [itch.io](https://ika-bits.itch.io/exploring-alda-gardens)
+Playable on [itch.io](https://ika-bits.itch.io/soul-steeped)
 
 Serve tea to restore balance.
 
