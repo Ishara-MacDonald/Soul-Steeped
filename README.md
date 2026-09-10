@@ -1,5 +1,7 @@
 # Soul Steeped
 
+Playable on [itch.io](https://ika-bits.itch.io/exploring-alda-gardens)
+
 Serve tea to restore balance.
 
 You're a local brewer with a small superpower: you can view the state of someone's soul!
@@ -11,3 +13,12 @@ It's up to the player to find out which flavours restore which need, and to rest
 ---
 
 All the art belong to me, using drawings I've made along the years and assets quickly drawn to fit in the game.
+
+---
+
+**Copyright © 2026 Ishara MacDonald. All rights reserved.**
+
+
+This repository is publicly available for viewing and evaluation.
+
+No permission is granted to reproduce, distribute, modify, or commercially use this code or the game's assets without explicit permission.
